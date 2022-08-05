@@ -1,1 +1,1 @@
-# HCMUT-logo
+# HCMUT-logo being drawn by Python
