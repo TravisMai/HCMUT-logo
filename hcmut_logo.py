@@ -5,7 +5,7 @@ import turtle
 turtle.Screen().bgcolor("#142D65")
 
 t = turtle.Turtle()
-t.speed(10)
+t.speed(65)
 t.penup()
 
 def draw_hcmut1 () :
